@@ -1,14 +1,12 @@
 NAME
 
-       Char::Hebrew - Source code filter for Hebrew script (Imitation JPerl)
+       Hebrew - Source code filter for Hebrew script (Imitation JPerl)
 
 SYNOPSIS
 
     In your script:
 
-      use Char::Hebrew; # CPAN formal style
-         or
-      use Hebrew; # casual style
+      use Hebrew;
 
     At command prompt:
 
